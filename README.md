@@ -1,6 +1,12 @@
 # cdk-csharp
 This is a CDK hello world in C# for AWS
 
+
+## Episode 6
+
+* [Reference Hugo Static Site Deploy](https://constructs.dev/packages/cdk-hugo-deploy/v/0.0.86?lang=dotnet)
+
+
 ## How To
 
 * [Read Intro Docs](https://docs.aws.amazon.com/cdk/v1/guide/home.html)
